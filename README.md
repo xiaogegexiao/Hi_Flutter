@@ -1,6 +1,7 @@
 # hi_flutter
 
 A new Flutter application.
+First hello world flutter sample
 
 ## Getting Started
 
